@@ -1,0 +1,19 @@
+{
+  "name": "cars_app_rewrite",
+  "version": "1.0.0",
+  "description": "Rewriting the cars app, to gain a better understanding",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seangeleno/cars_app_angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seangeleno/cars_app_angular/issues"
+  },
+  "homepage": "https://github.com/seangeleno/cars_app_angular#readme"
+}
